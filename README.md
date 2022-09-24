@@ -9,7 +9,7 @@ Ambiente para estudo dos principais frameworks big data em docker.
 *OBS: Esse passo deve ser realizado apena uma vez. Após o ambiente criado, utilizar o docker-compose para iniciar os containers como mostrado no tópico INICIANDO O AMBIENTE*
 
 #### Criação do diretório docker:
-*OBS: A criação do diretório é importante para os mapeamentos necessários*
+* OBS: A criação do diretório é importante para os mapeamentos necessários*
           
    * No Linux:
       * Criar o diretório na home do usuário
